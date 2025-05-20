@@ -1,3 +1,17 @@
-body {
+h3{
+  color:#76A06A;
 
+  font-size: 30px;
+}
+
+body{
+  background-color:#C6E1E7;
+ 
+}
+
+#img1 {
+  float: right;
+}
+#img2{
+  float: right;
 }
