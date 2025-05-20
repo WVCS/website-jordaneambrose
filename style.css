@@ -10,8 +10,5 @@ body{
 }
 
 #img1 {
-  float: right;
-}
-#img2{
-  float: right;
+  float= right;
 }
