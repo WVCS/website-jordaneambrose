@@ -1,16 +1,36 @@
 h3{
-  color:#76A06A;
+  color:#76A06A ;
   font-size: 30px
 }
-
 body{
   background-color:#C6E1E7 ;
 }
+nav{
+  list-style-type:none;
+  background-color:#684A52;
+  width: 100%;
+  postion: fixed;
+  top: 0;
+  left 0;
+}
 
+li a {
+  text-decoration: none;
+  background color: wheat;
+  border-color: black;
+  color: #684A52;
+  display: block;
+  float: left;
+  padding: 15px 50px;
+}
+li a:hover {
+  background-color: wheat;
+  color: #912735;
+}
 #img1{
   float: right;
 }
-
 #img2{
-  float: left;
+  float:right;
+  height=50;
 }
