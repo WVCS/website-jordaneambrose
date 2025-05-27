@@ -1,4 +1,3 @@
-<style>
 h3{
   color:#76A06A ;
   font-size: 30px
@@ -28,11 +27,4 @@ li a:hover {
   background-color: wheat;
   color: #912735;
 }
-#img1{
-  float: right;
-}
-#img2{
-  float:right;
-  height=50;
-}
-</style>
+
